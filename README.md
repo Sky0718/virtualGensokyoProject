@@ -7,15 +7,36 @@
 [![](https://img.shields.io/gitter/room/nwjs/nw.js)](https://github.com/Sky0718/auroraSoftware/)
 [![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/auroraSoftware/)
 
-### [about us] ###
-*Virtual Gensokyo Project* is the name of this game
+#### [About us] ####
+We are **Aurora Software**
+The Game **Virtual Gensokyo Project** was made by **Aurora Software Development Group** including **Drawing**, **PV**, **Coding** and **DJ**
 
-#### [variable] ####
+#### [Game Synopsis] ####
+In the near future, mankind is overexploiting the Earth's resources, but the population is increasing without finding a way to seek more living space. Fortunately, instead of massive wars breaking out between humans, virtual reality games are thriving. More powerful technology and advanced computers allow people to upload their consciousness to the electronic world, which is one way to deal with massive overpopulation. As a result, a large number of unemployed and homeless people and people who have lost hope in reality go to virtual world.  
+  
+However, these are huge burdensome burdens that no governments want to bear, so a plan called "Virtual Gensokyo Project" was unveiled. Ostensibly to give escapist and desperate people a path to utopia, but actually to immerse them in the world and finally forget themselves.  
+  
+The lead role comes from a small fishing village south of province, on the border between southeast France and Italy. His life was quiet, unaffected by the uproar caused by the Anglo-French war ten years ago, until the dispatch from Paris.  
+  
+He never expected that his fate would be changed by such a small incident.  
+  
+On the road to the fabled land of dreams, from the French fishing village to the fortresses of central Europe, from the emerald fields to the frozen poles, from the fabled cities to the empire of the sun... Mixed with battle, blood, warmth and despair, who could have predicted that this would change the fate of the world?  
+  
+"It was too late; we have lost our last hope. Abandon it"  
+
+
+
+
+## [Devlog] ##
+* * *
+###### [Below are Development Log] ######
+
+#### [Variable] ####
 global variable of public of whole *.unity* file  
 
 * * *
 
-#### [naming rules] ####
+#### [Naming Rules] ####
 character_*declearTimes[need to replace with times]*_*characterOriginalName[need to replace with name]*  
 declearTimes start with 0:  
 &nbsp; &nbsp; E.g:  
@@ -24,7 +45,7 @@ declearTimes start with 0:
 
 * * *
 
-#### [uploading file] ###
+#### [Uploading File] ###
 uploading address https://github.com/Sky0718/auroraSoftware.git with *remote origin*  
 commit with name of **Aurora Software Development Group**  
 README.md has already been added  
@@ -32,14 +53,14 @@ push with *origin master*
 
 * * *
 
-#### [deadline] ####
+#### [Deadline] ####
 **V1.0.0**
 all scenes with deadline of **Dec. 15, 2019**  
 scene modify with deadline of **Dec. 25, 2019**  
 
 * * *
 
-#### [license] ####
+#### [License] ####
 LICENSE of **MIT**  
 
 * * *
