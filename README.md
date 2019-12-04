@@ -8,6 +8,7 @@
 [![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/auroraSoftware/)
 
 # [About us] #
+[![](https://github.com/Sky0718/auroraSoftware/blob/master/image/logo.png)](https://github.com/Sky0718/auroraSoftware/)
 #### [Aurora Software] ####
 We are **Aurora Software**
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**
