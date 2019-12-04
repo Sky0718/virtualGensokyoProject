@@ -33,13 +33,18 @@ push with *origin master*
 * * *
 
 #### [deadline] ####
+**V1.0.0**
 all scenes with deadline of **Dec. 15, 2019**  
 scene modify with deadline of **Dec. 25, 2019**  
 
 * * *
 
-#### [git ignore] ####
-.gitignore of **C++**  
+#### [license] ####
 LICENSE of **MIT**  
+
+* * *
+
+#### [.gitignore] ####
+.gitignore of **unity**  
 
 * * *
