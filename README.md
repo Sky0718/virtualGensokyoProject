@@ -1,23 +1,22 @@
-[![](https://img.shields.io/appveyor/ci/gruntjs/grunt)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/bower/l/bootstrap)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/vaadin-directory/rating-count/vaadinvaadin-grid)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/bionic)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?down_color=lightgrey&down_message=online&up_color=green&up_message=online)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/cii/level/1)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/gitter/room/nwjs/nw.js)](https://github.com/Sky0718/auroraSoftware/)
-[![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/auroraSoftware/)
+[![](https://img.shields.io/appveyor/ci/gruntjs/grunt)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/bower/l/bootstrap)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/vaadin-directory/rating-count/vaadinvaadin-grid)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/bionic)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?down_color=lightgrey&down_message=online&up_color=green&up_message=online)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/cii/level/1)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/gitter/room/nwjs/nw.js)](https://github.com/Sky0718/uauroraSoftware/)
+[![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/uauroraSoftware/)
 
 # [About us] #
-[![](https://github.com/Sky0718/auroraSoftware/blob/master/image/logo.png)](https://github.com/Sky0718/auroraSoftware/)
-#### [Aurora Software] ####
-We are **Aurora Software**
+#### [UAurora Software] ####
+We are **UAurora Software**
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**
 
 #### [Contact us] ####
 Please contact us with email [UAurora_Software@163.com](https://mail.163.com/)
 
 #### [Virtual Gensokyo Project] ####
-The Game **Virtual Gensokyo Project** was made by **Aurora Software Development Group**
+The Game **Virtual Gensokyo Project** was made by **UAurora Software Development Group**
   
 #### [Game Synopsis] ####
 In the near future, mankind is overexploiting the Earth's resources, but the population is increasing without finding a way to seek more living space. Fortunately, instead of massive wars breaking out between humans, virtual reality games are thriving. More powerful technology and advanced computers allow people to upload their consciousness to the electronic world, which is one way to deal with massive overpopulation. As a result, a large number of unemployed and homeless people and people who have lost hope in reality go to virtual world.  
@@ -50,7 +49,7 @@ declearTimes start with 0:
 * * *
 
 #### [Uploading File] ###
-uploading address https://github.com/Sky0718/auroraSoftware.git with *remote origin*  
+uploading address https://github.com/Sky0718/uauroraSoftware.git with *remote origin*  
 commit with name of **Aurora Software Development Group**  
 README.md has already been added  
 push with *origin master*  
