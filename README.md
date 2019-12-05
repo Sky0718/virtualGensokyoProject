@@ -31,8 +31,7 @@ On the road to the fabled land of dreams, from the French fishing village to the
   
 "It was too late; we have lost our last hope. Abandon it"  
   
-# [Devlog] #
-###### [Below are Development Log] ######
+# [Devlog] # ###### [Below are Development Log] ######
   
 #### [Variable] ####
 global variable of public of whole *.unity* file  
