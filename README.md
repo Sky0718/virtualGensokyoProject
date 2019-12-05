@@ -8,6 +8,7 @@
 [![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/uauroraSoftware/)
 
 # [About us] #
+
 #### [UAurora Software] ####
 We are **UAurora Software**
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**
@@ -31,7 +32,7 @@ On the road to the fabled land of dreams, from the French fishing village to the
   
 "It was too late; we have lost our last hope. Abandon it"  
   
-# [Devlog] # ###### [Below are Development Log] ######
+# [Devlog] #
   
 #### [Variable] ####
 global variable of public of whole *.unity* file  
