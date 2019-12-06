@@ -10,11 +10,11 @@
 # [About us] #
 
 #### [UAurora Software] ####
-We are **UAurora Software**
-We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**
+We are **UAurora Software**  
+We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**  
 
 #### [Contact us] ####
-Please contact us with email [UAurora_Software@163.com](https://mail.163.com/)
+Please contact us with email [UAurora_Software@163.com](https://mail.163.com/)  
 
 #### [Virtual Gensokyo Project] ####
 The Game **Virtual Gensokyo Project** was made by **UAurora Software Development Group**
@@ -49,7 +49,7 @@ declearTimes start with 0:
 * * *
 
 #### [Uploading File] ###
-uploading address https://github.com/Sky0718/uauroraSoftware.git with *remote origin*  
+uploading address [https://github.com/Sky0718/uauroraSoftware.git](https://github.com/Sky0718/uauroraSoftware) with *remote origin*  
 commit with name of **UAurora Software Development Group**  
 README.md has already been added  
 push with *origin master*  
