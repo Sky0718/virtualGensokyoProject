@@ -12,6 +12,7 @@
 #### [UAurora Software] ####
 We are **UAurora Software**  
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**  
+We are preparing to sale *Virtual Gensokyo Project* in Steam and this repository contains the source code of this ADV game  
 
 #### [Contact us] ####
 Please contact us with email [UAurora_Software@163.com](https://mail.163.com/)  
