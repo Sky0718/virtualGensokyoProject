@@ -8,7 +8,7 @@
 [![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/auroraSoftware/)
 
 #### [image] ####
-this folder contains all the images of **virtual Gensokyo Project**  
+This folder contains all the images of **virtual Gensokyo Project**  
 
 * * *
 
