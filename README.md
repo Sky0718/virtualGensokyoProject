@@ -7,19 +7,15 @@
 [![](https://img.shields.io/gitter/room/nwjs/nw.js)](https://github.com/Sky0718/virtualGensokyoProject/)
 [![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/virtualGensokyoProject/)
 
-# [About us] #
+# [About us] # ***Below are About us***
 
 #### [UAurora Software] ####
 We are **UAurora Software**  
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**  
 We are preparing to sale *Virtual Gensokyo Project* in Steam and this repository contains the source code of this ADV game  
 
-* * *
-
 #### [Virtual Gensokyo Project] ####
 This Game **Virtual Gensokyo Project** was made by **UAurora Software Development Group**
-
-* * *
 
 #### [Game Synopsis] ####
 In the near future, mankind is overexploiting the Earth's resources, but the population is increasing without finding a way to seek more living space. Fortunately, instead of massive wars breaking out between humans, virtual reality games are thriving. More powerful technology and advanced computers allow people to upload their consciousness to the electronic world, which is one way to deal with massive overpopulation. As a result, a large number of unemployed and homeless people and people who have lost hope in reality go to virtual world.  
@@ -34,17 +30,13 @@ On the road to the fabled land of dreams, from the French fishing village to the
   
 "It was too late; we have lost our last hope. Abandon it"  
 
-* * *
-
 #### [Contact us] ####
 Please contact us with email [UAurora_Software@163.com](https://mail.163.com/)  
 
-# [Devlog] #
+# [Devlog] # ***Below are Devlog***
   
 #### [Variable] ####
 global variable of public of whole *.unity* file  
-
-* * *
 
 #### [Naming Rules] ####
 character_*declearTimes[need to replace with times]*_*characterOriginalName[need to replace with name]*  
@@ -53,27 +45,19 @@ declearTimes start with 0:
         &nbsp; &nbsp; &nbsp; &nbsp; ~~character_1_Aurora~~   
         &nbsp; &nbsp; &nbsp; &nbsp; character_0_Aurora  
 
-* * *
-
 #### [Uploading File] ###
 uploading address [https://github.com/Sky0718/uauroraSoftware.git](https://github.com/Sky0718/virtualGensokyoProject) with *remote origin*  
 commit with name of **UAurora Software Development Group**  
 README.md has already been added  
 push with *origin master*  
 
-* * *
-
 #### [Deadline] ####
 **V1.0.0**
 all scenes with deadline of **Dec. 14, 2019**  
 scene modify with deadline of **Dec. 23, 2019**  
 
-* * *
-
 #### [License] ####
 LICENSE of **MIT**  
-
-* * *
 
 #### [.gitignore] ####
 .gitignore of **unity**  
