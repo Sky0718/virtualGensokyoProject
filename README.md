@@ -7,7 +7,9 @@
 [![](https://img.shields.io/gitter/room/nwjs/nw.js)](https://github.com/Sky0718/virtualGensokyoProject/)
 [![](https://img.shields.io/npm/v/@cycle/core)](https://github.com/Sky0718/virtualGensokyoProject/)
 
-# [About us] # ***Below are About us***
+
+
+# [About us] #
 
 #### [UAurora Software] ####
 We are **UAurora Software**  
@@ -33,7 +35,9 @@ On the road to the fabled land of dreams, from the French fishing village to the
 #### [Contact us] ####
 Please contact us with email [UAurora_Software@163.com](https://mail.163.com/)  
 
-# [Devlog] # ***Below are Devlog***
+
+
+# [Devlog] #
   
 #### [Variable] ####
 global variable of public of whole *.unity* file  
