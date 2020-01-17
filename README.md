@@ -9,17 +9,17 @@
 
 
 
-# About us #
+# [About us] #
 
-#### UAurora Software ####
+### [UAurora Software] ###
 We are **UAurora Software**  
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**  
 We are preparing to sale *Virtual Gensokyo Project* in Steam and this repository contains the source code of this ADV game  
 
-#### Virtual Gensokyo Project ####
+### [Virtual Gensokyo Project] ###
 This Game **Virtual Gensokyo Project** was made by **UAurora Software Development Group**
 
-#### Our Team Members ####
+### [Our Team Members] ###
 **Jack Ma[Leader]**: The leader of the UAurora Software and the head of the art department and and a writer. He is one of the game background plot designers, assisting the writing department to complete the branch line design and complete some designs of tools inside the game. His main duty is to finish CG, primary visual diagram, and UI design.
   
 **Isabel Wu[Art Department]**: Member of the art department. Mainly focuses on constructing the background scenes.
@@ -44,7 +44,7 @@ This Game **Virtual Gensokyo Project** was made by **UAurora Software Developmen
   
 **Lorenzo Xiao[Music Department]**: NO INTRODUCTION HERE.
 
-#### Game Synopsis ####
+### Game Synopsis ###
 In the near future, mankind is overexploiting the Earth's resources, but the population is increasing without finding a way to seek more living space. Fortunately, instead of massive wars breaking out between humans, virtual reality games are thriving. More powerful technology and advanced computers allow people to upload their consciousness to the electronic world, which is one way to deal with massive overpopulation. As a result, a large number of unemployed and homeless people and people who have lost hope in reality go to virtual world.  
   
 However, these are huge burdensome burdens that no governments want to bear, so a plan called "Virtual Gensokyo Project" was unveiled. Ostensibly to give escapist and desperate people a path to utopia, but actually to immerse them in the world and finally forget themselves.  
@@ -57,38 +57,38 @@ On the road to the fabled land of dreams, from the French fishing village to the
   
 "It was too late; we have lost our last hope. Abandon it"  
 
-#### Contact us ####
+### Contact us ###
 Contact us with email [UAurora_Software@163.com](https://mail.163.com/)  
 
 
 
 # [Devlog] #
   
-#### [Variable] ####
+### [Variable] ###
 global variable of public of whole *.unity* file  
 
-#### [Naming Rules] ####
+### [Naming Rules] ###
 character_*declearTimes[need to replace with times]*_*characterOriginalName[need to replace with name]*  
 declearTimes start with 0:  
 &nbsp; &nbsp; E.g:  
         &nbsp; &nbsp; &nbsp; &nbsp; ~~character_1_Aurora~~   
         &nbsp; &nbsp; &nbsp; &nbsp; character_0_Aurora  
 
-#### [Uploading File] ###
+### [Uploading File] ###
 uploading address [https://github.com/Sky0718/uauroraSoftware.git](https://github.com/Sky0718/virtualGensokyoProject) with *remote origin*  
 commit with name of **UAurora Software Development Group**  
 README.md has already been added  
 push with *origin master*  
 
-#### [Deadline] ####
+### [Deadline] ###
 **V1.0.0**
 all scenes with deadline of **Dec. 14, 2019**  
 scene modify with deadline of **Dec. 23, 2019**  
 
-#### [License] ####
+### [License] ###
 LICENSE of **MIT**  
 
-#### [.gitignore] ####
+### [.gitignore] ###
 .gitignore of **unity**  
 
 * * *
