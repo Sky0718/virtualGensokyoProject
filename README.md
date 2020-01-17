@@ -44,7 +44,7 @@ This Game **Virtual Gensokyo Project** was made by **UAurora Software Developmen
   
 **Lorenzo Xiao[Music Department]**: NO INTRODUCTION HERE.
 
-### Game Synopsis ###
+### [Game Synopsis] ###
 In the near future, mankind is overexploiting the Earth's resources, but the population is increasing without finding a way to seek more living space. Fortunately, instead of massive wars breaking out between humans, virtual reality games are thriving. More powerful technology and advanced computers allow people to upload their consciousness to the electronic world, which is one way to deal with massive overpopulation. As a result, a large number of unemployed and homeless people and people who have lost hope in reality go to virtual world.  
   
 However, these are huge burdensome burdens that no governments want to bear, so a plan called "Virtual Gensokyo Project" was unveiled. Ostensibly to give escapist and desperate people a path to utopia, but actually to immerse them in the world and finally forget themselves.  
@@ -57,7 +57,7 @@ On the road to the fabled land of dreams, from the French fishing village to the
   
 "It was too late; we have lost our last hope. Abandon it"  
 
-### Contact us ###
+### [Contact us] ###
 Contact us with email [UAurora_Software@163.com](https://mail.163.com/)  
 
 
