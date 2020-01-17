@@ -10,7 +10,6 @@
 
 
 # [About us] #
-
 ### [UAurora Software] ###
 We are **UAurora Software**  
 We are a game development group including **Drawing**, **Coding**, **PV** and **DJ**  
@@ -63,7 +62,6 @@ Contact us with email [UAurora_Software@163.com](https://mail.163.com/)
 
 
 # [Devlog] #
-  
 ### [Variable] ###
 global variable of public of whole *.unity* file  
 
